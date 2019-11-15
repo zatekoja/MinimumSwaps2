@@ -18,6 +18,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-
+        //use this to create test cases
     }
 }
